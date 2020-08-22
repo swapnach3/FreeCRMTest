@@ -1,0 +1,15 @@
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\DealsPage.class
+com\crm\qa\pages\SignupPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\LoginPage.class
+SeleniumSessions\FrameHandling.class
+SeleniumSessions\BootStrapSession.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\util\TestUtil.class
+SeleniumSessions\ReadPropFile.class
+SeleniumSessions\DragandDropConcepts.class
+SeleniumSessions\DynamicWebtable.class
+FreeCRMTestAutomation\FreeCRMTest\App.class
+SeleniumSessions\WebDriverBasics.class
+SeleniumSessions\MouseMovementsConcepts.class
